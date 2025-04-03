@@ -1,0 +1,38 @@
+button {
+    background-color:rgb(227, 42, 10);
+    color: white;
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 10px
+}
+
+p {
+    color: rgb(14, 14, 186);
+   
+}
+
+h3{
+    color: red;
+}
+
+h1{
+    color: aqua;
+}
+
+label{
+    color: blueviolet;
+}
+
+
+body {
+    background-image: url('images/background.jpg'); /* Şəkilin yolu */
+    background-size: cover;  /* Şəkil ekranı tam örtəcək */
+    background-position: center; /* Şəkil mərkəzdə olacaq */
+    background-repeat: no-repeat;  /* Şəkil təkrarlanmayacaq */
+
+}
+
+/* Etiketlərin yazı ölçüsünü böyüdürük */
+label {
+    font-size: 18px;  /* 18px ölçüsündə yazı */
+}
